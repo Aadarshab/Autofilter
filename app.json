@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot V3",
+    "name": "Mdisk Movie 🍿🎥",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
     "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/Aadarshab/Autofilter",
+    "repository": "https://github.com/Aadarshab/Autofilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -65,7 +65,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "",
+            "value": "<b>Join [AB Bots](https://t.me/abcracker) for Best Channels</b>\n\n<code>{file_name}</code>",
             "required": false
         },
         "AUTH_GROUPS": {
