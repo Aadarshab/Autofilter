@@ -65,7 +65,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "<b>Join [AB Bots](https://t.me/abcracker) for Best Channels</b>\n\n<code>{file_name}</code>",
+            "value": "<b>Join [AB Bots](https://t.me/abcracked) for Best Channels</b>\n\n<code>{file_name}</code>",
             "required": false
         },
         "AUTH_GROUPS": {
@@ -75,11 +75,11 @@
         },
         "DATABASE_2": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com ",
-            "value": ""
+            "value": "mongodb+srv://Movie:AB@cluster0.g1lthiw.mongodb.net/?retryWrites=true&w=majority"
         },
         "BOT_NAME": {
             "description": "Name of the database in mongoDB ",
-            "value": "LuciferMoringstar_Robot"
+            "value": "Mdiskmovie_Robot"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
@@ -98,17 +98,17 @@
         },
         "DATABASE_1": {
             "description": "Broadcast Group Database",
-            "value": "",
+            "value": "mongodb+srv://Movie:AB@cluster0.g1lthiw.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "ADMIN_ID": {
             "description": "Control BroadCast",
-            "value": "",
+            "value": "1324432518",
             "required": true
         },
         "BROADCAST_CHANNEL": {
             "description": "ID of a Channel (user Notification)",
-            "value": "",
+            "value": "-1001803177506",
             "required": true
         }
     },
