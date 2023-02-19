@@ -20,32 +20,32 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": ""
+            "value": "6173880700:AAFOkJAFPRORpS5RXT-Bkmq3RybcbMqsyQ0"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "24236993"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "0a56df2f25eefcace1c2e8948106dd66"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": ""
+            "value": "-1001720244952"
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "value": "1324432518"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "value": "",
+            "value": "1324432518",
             "required": false
         },
         "FORCES_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "value": "-1001746191897",
             "required": false
         },
         "START_MSG": {
@@ -60,7 +60,7 @@
         },
         "OMDB_API_KEY": {
             "description": "Your OMBD API KEY, Fill if you want to generate a imdb poster of movie in autofilter.",
-            "value": "",
+            "value": "5c68c8b1",
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
